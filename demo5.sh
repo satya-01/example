@@ -4,4 +4,5 @@ ls
 
 date
 
+git revers
 
